@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm Phu Cuong Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Cuong Nguyen Phun</h1>
 <h3 align="center">A passionate developer from FPT University, VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
