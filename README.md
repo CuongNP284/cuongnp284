@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hello 👋, I am Cuong Nguyen-Phu</h1>
-<h3 align="center">I am a student, who is majoring in Sofware Engineering, from FPT University, VietNam</h3>
+<h1 align="center">I am Cuong Nguyen-Phu</h1>
+<h3 align="center">Student, Major in Software Engineering, FPT University of HCMC - Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
